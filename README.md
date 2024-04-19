@@ -1,7 +1,6 @@
 ## Olympics Data Analysis Dashboard 🏆📅
 
-This project showcases an interactive data analysis dashboard for Olympic Games data using Streamlit, Plotly, Pandas, Seaborn, Matplotlib, and PIL (Pillow). 
-This application analyzes and visualizes Olympic Games data including medal tallies, country-wise performance, athlete statistics, and more.
+This project showcases an interactive data analysis dashboard where we have analyzed and visualized Olympic Games data including medal tallies, country-wise performance, athlete statistics, and more.
 Use the sidebar to select different analysis options such as Medal Tally, Overall Analysis, Country-wise Analysis, or Athlete-wise Analysis. Explore the interactive charts and tables to gain insights into Olympic Games data.
 
 ### Features
