@@ -1,5 +1,5 @@
 import pandas as pd
-import preprocessor, helper
+import preprocessor, helper.helper as helper
 import plotly.express as px
 import matplotlib.pyplot as plt
 import seaborn as sns
