@@ -3,4 +3,4 @@ plotly
 seaborn
 pandas
 matplotlib
-PIL
+pillow
