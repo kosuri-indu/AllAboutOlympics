@@ -1,7 +1,6 @@
 ## Olympics Data Analysis Dashboard 🏆📅
 
-This project showcases an interactive data analysis dashboard where we have analyzed and visualized Olympic Games data including medal tallies, country-wise performance, athlete statistics, and more.
-Use the sidebar to select different analysis options such as Medal Tally, Overall Analysis, Country-wise Analysis, or Athlete-wise Analysis. Explore the interactive charts and tables to gain insights into Olympic Games data.
+This project showcases an interactive data analysis dashboard where we have analyzed and visualized Olympic Games data. Explore the interactive charts and tables to gain insights into Olympic Games data.
 
 ### Features
 - **Medal Tally Analysis**: View medal tally based on selected year and country.
@@ -14,24 +13,11 @@ Use the sidebar to select different analysis options such as Medal Tally, Overal
 |-----------|---------------|
 | Python | Numpy, Pandas, Matplotlib, Seaborn, Plotly (express, figure_factory), Pillow, Streamlit|
 
-### Setup and Installation
-To run this application locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/AllAboutOlympics.git
-   ```
-
-2. Install dependencies using pip:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Streamlit app:
-   ```bash
-   streamlit run app.py
-   ```
-
+### Resources
+- CampusX : https://www.youtube.com/watch?v=5nQXhusiu7s&t=92s
+- Documentation of the Libraries
+- And also added my own data analysis components as well
+  
 ### Folder Structure
 
 ``` 
